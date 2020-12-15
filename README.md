@@ -1,4 +1,4 @@
-# TP 4A 2020-21:
+# TP 4A 2020-21: Text generator with Markov's chains
 
 ## Questions
 1. Fork this github repository  (2 points)
