@@ -45,11 +45,6 @@ Hereafter, for each classes give function to be tested. Remember that all functi
 
 ## Functions to test now
 
-### Class app.MarkovApp
-
-```Java
-```
-
 ### Class markov.MarkovChain
 
 ```Java
@@ -64,12 +59,6 @@ public void read(String text)
 public boolean renforceWord(String keyString, String wordToLearn)
 ```
 
-## Tricks & tips
-
-- Start with simple classes (models, libraries, etc) at the end make test into complex classes (classes with multiple relations)
-- Never test auto generate code
-- Never test creator (its a design problem)
-- Use @Test before each testFunction !
 ## Tricks & tips
 
 - Start with simple classes (models, libraries, etc) at the end make test into complex classes (classes with multiple relations)
