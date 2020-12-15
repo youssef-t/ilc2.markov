@@ -1,4 +1,7 @@
 package app;
+/** class that implements Markov chain
+ * and reads the file VictorHugo_LesMiserables-II-Cosette.txt
+ */
 
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;

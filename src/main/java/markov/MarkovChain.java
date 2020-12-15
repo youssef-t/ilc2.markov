@@ -1,4 +1,8 @@
 package markov;
+/**
+ * class that learns chains of words
+ * and give new ones
+ */
 
 import java.util.ArrayList;
 import java.util.Arrays;

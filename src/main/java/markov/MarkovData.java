@@ -1,4 +1,8 @@
 package markov;
+/**
+ * class that associates words with "values", learns them and renforces
+ * learning
+ */
 
 import java.util.ArrayList;
 import java.util.Arrays;
