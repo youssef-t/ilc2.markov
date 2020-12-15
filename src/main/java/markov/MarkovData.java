@@ -1,14 +1,15 @@
 package markov;
-/**
- * class that associates words with "values", learns them and renforces
- * learning
- */
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
+/**
+ * class that associates words with "values", learns them and renforces
+ * learning
+ */
 
 public class MarkovData {
 	private Map<String, String> markovTable = new HashMap<String,String>();
